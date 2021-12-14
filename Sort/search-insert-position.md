@@ -6,4 +6,5 @@
 
 请必须使用时间复杂度为 O(log n) 的算法。
 
-githupToken: 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
+githupToken:
+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
